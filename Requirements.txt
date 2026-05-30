@@ -1,0 +1,22 @@
+## Requirements
+Python==3.8.10
+Pandas==1.3.3
+NumPy==1.21.2
+Matplotlib==3.4.3
+MySQL-Connector==2.3.0
+Jupyter==1.0.0
+Faker==40.19.1
+
+
+## Technologies Used
+- MySQL — database design and queries
+- Python — synthetic data generation using Faker library
+- Pandas — data manipulation and CSV export
+- Jupyter Notebook — MapReduce implementation
+
+
+## Installation
+1. Install Python 3.13
+2. Run: pip install -r Requirements.txt
+3. Set up MySQL and run SQL/CA1.sql
+4. Run Jupyter notebooks from JUPYTER/ folder
