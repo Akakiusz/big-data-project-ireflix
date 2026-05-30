@@ -1,10 +1,3 @@
--- ============================================================
--- Ireflix Database - Big Data CA1 Assignment (final version)
--- Programme: L7 Diploma in Data Analytics (Sept 2025)
--- Author: Arkadiusz Jedrzejewski
--- Version: 2.0 - final
--- ============================================================
-
 
 -- ============================================================
 -- SECTION 1: DATABASE SETUP
